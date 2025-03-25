@@ -1,3 +1,14 @@
+<h1>MERN Stack Project: Github Clone</h1>
+
+## 🛠️ Tech Stack  
+**Front-end:** React.js, Tailwind CSS, Github API  
+
+**Back-end:** Node.js, Express.js, MongoDB, Error handling 
+
+**Authentication:** Passport.js 
+
+## 📦 Installation  
+
 ### Setup .env file
 
 ```js
